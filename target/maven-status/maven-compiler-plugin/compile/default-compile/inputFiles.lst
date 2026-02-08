@@ -1,0 +1,12 @@
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\dao\ArmazemDAO.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\dao\IngredienteDAO.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\model\Armazem.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\model\Ingrediente.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\servlet\armazem\CadastrarArmazemServlet.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\servlet\armazem\EditarArmazemServlet.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\servlet\armazem\ExcluirArmazemServlet.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\servlet\armazem\ListarArmazemServlet.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\servlet\ingrediente\CadastrarIngredienteServlet.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\servlet\ingrediente\ExcluirIngredienteServlet.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\servlet\ingrediente\ListarIngredienteServlet.java
+C:\Users\gabri\Meus Documentos\VScode\Java\ProjetoBancoDeDados\app-web\src\main\java\br\edu\ifpb\bd\util\ConnectionFactory.java

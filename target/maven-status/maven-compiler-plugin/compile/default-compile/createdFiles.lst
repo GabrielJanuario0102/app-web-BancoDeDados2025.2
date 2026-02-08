@@ -1,0 +1,12 @@
+br\edu\ifpb\bd\servlet\ingrediente\CadastrarIngredienteServlet.class
+br\edu\ifpb\bd\servlet\armazem\CadastrarArmazemServlet.class
+br\edu\ifpb\bd\servlet\armazem\EditarArmazemServlet.class
+br\edu\ifpb\bd\servlet\ingrediente\ListarIngredienteServlet.class
+br\edu\ifpb\bd\util\ConnectionFactory.class
+br\edu\ifpb\bd\servlet\armazem\ListarArmazemServlet.class
+br\edu\ifpb\bd\dao\IngredienteDAO.class
+br\edu\ifpb\bd\dao\ArmazemDAO.class
+br\edu\ifpb\bd\model\Armazem.class
+br\edu\ifpb\bd\servlet\ingrediente\ExcluirIngredienteServlet.class
+br\edu\ifpb\bd\servlet\armazem\ExcluirArmazemServlet.class
+br\edu\ifpb\bd\model\Ingrediente.class

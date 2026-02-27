@@ -1,18 +1,14 @@
 <%@ page import="java.util.*,br.edu.ifpb.bd.model.Ingrediente" %>
     <!DOCTYPE html>
     <html lang="pt-br">
-
     <head>
         <meta charset="UTF-8">
         <title>Lista Ingredientes</title>
         <link rel="stylesheet" href="css/estiloPaginaListagem.css">
     </head>
-
     <body>
         <a href="/app-web" class="estiloBotaoLink">Voltar para a Pagina Inicial</a>
-
         <h2>Listagem de Ingredientes</h2>
-
         <table class="tabela-listagem">
             <thead>
                 <tr>
@@ -44,8 +40,5 @@
                     <% } %>
             </tbody>
         </table>
-
-                <script src="/projeto/js/bootstrap.bundle.min.js">
-        </script>
     </body>
     </html>

@@ -9,7 +9,7 @@
 <body>
     <h2>Cadastrar Ingrediente</h2>
     <!-- The "action" attribute should point to your server-side processing script -->
-    <form action="CadastrarIngrediente" method="POST" class="">
+    <form action="CadastrarIngrediente" method="POST">
 
         <label for="nome">Nome:</label>
         <input type="text" id="nome" name="nome" required>

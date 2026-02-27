@@ -19,7 +19,13 @@
         &nbsp; &nbsp;
         <a href="CadastrarIngrediente" class="estiloBotaoLink">Cadastrar Ingrediente</a>
         <br /> <br />
-        
+
+        <a href="ListarLoja" class="estiloBotaoLink">Listar Lojas</a>
+        &nbsp; &nbsp;
+        <a href="CadastrarLoja" class="estiloBotaoLink">Cadastrar Loja</a>
+        <br /> <br />
+        <br /> <br />
+        <a href="consultas.jsp" class="estiloBotaoLink">Consultar</a>
 
 </body>
 </html>

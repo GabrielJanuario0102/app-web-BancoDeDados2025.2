@@ -47,7 +47,6 @@
                     <% } %>
             </tbody>
         </table>
-
     </body>
 
     </html>
